@@ -1,0 +1,7 @@
+18-01-25 00:41:12 - root - INFO - *********test_login_validation*******
+18-01-25 00:41:19 - root - INFO - *********dashboard_Match*******
+18-01-25 00:41:21 - root - INFO - *********test_login_failed_validation*******
+18-01-25 00:41:23 - root - INFO - *********test_error_matching*******
+18-01-25 00:41:24 - root - INFO - ***************Test_003_AddCustomer************
+18-01-25 00:41:31 - root - INFO - ***************Login_successfully***************
+18-01-25 00:41:31 - root - INFO - ***************Starting add customer Test************
